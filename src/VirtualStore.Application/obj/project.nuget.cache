@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wdZ2gAykBgOad6/0Y1YrtQsDOt86/8sHH3sNpd0kQpNfOE5EVP8fWTty9EON2A31aCv7BzCwfn9D5aj47YreGg==",
+  "success": true,
+  "projectFilePath": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/VirtualStore.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/brunovercosa/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

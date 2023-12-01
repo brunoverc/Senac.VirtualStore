@@ -1,0 +1,32 @@
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.csproj.AssemblyReference.cache
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.AssemblyInfoInputs.cache
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.AssemblyInfo.cs
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.csproj.CoreCompileInputs.cache
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Application.deps.json
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Application.dll
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Application.pdb
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Core.dll
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Domain.dll
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Domain.pdb
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.csproj.CopyComplete
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.dll
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/refint/VirtualStore.Application.dll
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.pdb
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/ref/VirtualStore.Application.dll
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Application.deps.json
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Application.dll
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Application.pdb
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Core.dll
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Domain.dll
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/bin/Debug/net6.0/VirtualStore.Domain.pdb
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.csproj.AssemblyReference.cache
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.AssemblyInfoInputs.cache
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.AssemblyInfo.cs
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.csproj.CoreCompileInputs.cache
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.csproj.CopyComplete
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.dll
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/refint/VirtualStore.Application.dll
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/VirtualStore.Application.pdb
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Application/obj/Debug/net6.0/ref/VirtualStore.Application.dll

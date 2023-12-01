@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Infra.Data/VirtualStore.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Core/VirtualStore.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Core/VirtualStore.Core.csproj",
+        "projectName": "VirtualStore.Core",
+        "projectPath": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Core/VirtualStore.Core.csproj",
+        "packagesPath": "/Users/brunovercosa/.nuget/packages/",
+        "outputPath": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brunovercosa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/VirtualStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/VirtualStore.Domain.csproj",
+        "projectName": "VirtualStore.Domain",
+        "projectPath": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/VirtualStore.Domain.csproj",
+        "packagesPath": "/Users/brunovercosa/.nuget/packages/",
+        "outputPath": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brunovercosa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Core/VirtualStore.Core.csproj": {
+                "projectPath": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Core/VirtualStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Infra.Data/VirtualStore.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Infra.Data/VirtualStore.Infra.Data.csproj",
+        "projectName": "VirtualStore.Infra.Data",
+        "projectPath": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Infra.Data/VirtualStore.Infra.Data.csproj",
+        "packagesPath": "/Users/brunovercosa/.nuget/packages/",
+        "outputPath": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Infra.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brunovercosa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/VirtualStore.Domain.csproj": {
+                "projectPath": "/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/VirtualStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.21, )"
+            },
+            "LinqKit.Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.1.4, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

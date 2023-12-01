@@ -1,0 +1,30 @@
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/bin/Debug/net6.0/VirtualStore.Domain.deps.json
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/bin/Debug/net6.0/VirtualStore.Domain.dll
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/bin/Debug/net6.0/VirtualStore.Domain.pdb
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/bin/Debug/net6.0/VirtualStore.Core.dll
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/bin/Debug/net6.0/VirtualStore.Core.pdb
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.csproj.AssemblyReference.cache
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.AssemblyInfoInputs.cache
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.AssemblyInfo.cs
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.csproj.CoreCompileInputs.cache
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.csproj.CopyComplete
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.dll
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/refint/VirtualStore.Domain.dll
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.pdb
+D:/Bruno - Programacao/.net/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/ref/VirtualStore.Domain.dll
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/bin/Debug/net6.0/VirtualStore.Domain.deps.json
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/bin/Debug/net6.0/VirtualStore.Domain.dll
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/bin/Debug/net6.0/VirtualStore.Domain.pdb
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/bin/Debug/net6.0/VirtualStore.Core.dll
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/bin/Debug/net6.0/VirtualStore.Core.pdb
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.csproj.AssemblyReference.cache
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.AssemblyInfoInputs.cache
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.AssemblyInfo.cs
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.csproj.CoreCompileInputs.cache
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.csproj.CopyComplete
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.dll
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/refint/VirtualStore.Domain.dll
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/VirtualStore.Domain.pdb
+/Users/brunovercosa/Documents/Projects/DotNet/Senac.VirtualStore/src/VirtualStore.Domain/obj/Debug/net6.0/ref/VirtualStore.Domain.dll
